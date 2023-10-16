@@ -4,4 +4,6 @@ main() {
   print(longestUniqueSubstring("abcacbd"));
   print(longestUniqueSubstring("aaaaaaaa"));
   print(longestUniqueSubstring("abcde"));
+  print(longestUniqueSubstring("ban"));
+  print(longestUniqueSubstring("aZz"));
 }
